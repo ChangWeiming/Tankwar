@@ -8,5 +8,7 @@ clone cocos2d repo and add this to the cocos2d.
 
 # Interface
 
-![startPic](Resorces/readmePic1.jpg)
+![startPic](https://raw.githubusercontent.com/ChangWeiming/Tankwar/master/Resources/readmePic1.jpg)
+
+![battlePic](https://raw.githubusercontent.com/ChangWeiming/Tankwar/master/Resources/readmePic2.jpg)
 
